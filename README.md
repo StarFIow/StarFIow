@@ -14,8 +14,8 @@ I'm StarFlow, a small creator who makes Roblox scripts and GUIs.
 ## Connect
 
 <a href="https://scriptblox.com/u/starflow">
-  <img src="images/P-1.png" width="100">
-</a>
+  <img src="images/P-1.png" width="120">
+</a>  
 <a href="https://www.youtube.com/@StarFlow.0">
-  <img src="images/P-2.png" width="100">
+  <img src="images/P-2.png" width="120">
 </a>
